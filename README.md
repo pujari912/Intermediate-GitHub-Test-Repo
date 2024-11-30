@@ -1,2 +1,2 @@
 # Intermediate-GitHub-Test-Repo
-Used for educational purpose. Not a reak project
+Used for educational purpose. Not a real project
